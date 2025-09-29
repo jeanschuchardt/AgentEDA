@@ -3,3 +3,4 @@ pandas
 plotly
 langchain
 langchain-groq
+langchain-experimental
