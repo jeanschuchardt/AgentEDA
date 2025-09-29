@@ -4,3 +4,4 @@ plotly
 langchain
 langchain-groq
 langchain-experimental
+tabulate
